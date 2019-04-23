@@ -3,7 +3,7 @@ Instalação e Configuração - Formulário de prospeccao
 
 1- Passo de um clone no projeto
 
-https://github.com/brunasouzagomes/Projetos.git
+https://github.com/brunasouzagomes/meus-projetos.git
 
 2- Após baixar o projeto, dentro da pasta execute o comando:
 
