@@ -7,9 +7,4 @@ pretty: --format pretty
 
 
 
-#Projeto do Luciano
 
-#default: --no-source --color --format pretty
-#hlg: ENV="hlg" debug=false
-#local: ENV="prod" debug=false
-#prd: ENV="prd" debug=false

@@ -12,8 +12,7 @@ class Prospeccao #classe de cadastro
 #=====================================================================================================
 
     def cadastrar_prospeccao(body)
-        #binding.pry
-    self.class.post('/prospeccao', :body => body.to_json)
+        self.class.post('/prospeccao', :body => body.to_json)
         
     end
 

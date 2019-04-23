@@ -8,7 +8,6 @@ class Cadastro
         campos['dadosTecnicos']['integradora'] = "teste3"
         campos['dadosTecnicos']['participaDeQuaisMarketplace'] = "teste2"
         campos['dadosTecnicos']['plataformaErp'] = "testes"
-        #binding.pry
         campos['dadosTecnicos']['principalDepartamento']['id'] =  Faker::Number.number(1)
         campos['dadosTecnicos']['principalDepartamento']['nome'] = "Eletronicos"
         campos['site'] = Faker::Internet.url
